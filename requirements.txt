@@ -1,0 +1,8 @@
+dotenv
+langchain-openai
+langchain-google-genai
+google-cloud-firestore
+langchain-google-firestore
+fastapi
+uvicorn
+
